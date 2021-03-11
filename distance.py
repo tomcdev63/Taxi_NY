@@ -10,5 +10,5 @@ def compute_distance(lat1, lon1, lat2, lon2):
     a = np.sin(dlat/2)**2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon/2)**2
     c = 2 * np.arcsin(np.sqrt(a)) 
     total_distance = 6372800 * c
-    return np.rint(total_distance / 1000)
+    return total_distance / 1000
 
