@@ -34,5 +34,5 @@ git clone https://https://github.com/tomcdev63/Taxi_NY
 ### 2. Installez l'environnement
     
 ```
-conda.yaml
+conda create --name <env> --file <this file>
 ```
