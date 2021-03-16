@@ -28,7 +28,7 @@ Concernant le type de rendu, elle vous laisse libre de lui fournir sous la forme
 ### 1. Clonez le repos
 
 ```
-git clone https://github.com/tomcdev63/cetait_mieux_avant
+git clone https://https://github.com/tomcdev63/Taxi_NY
 ```
 
 ### 2. Installez l'environnement
