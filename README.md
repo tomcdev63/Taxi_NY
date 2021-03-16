@@ -1,6 +1,6 @@
 # TAXI_NY
 
-![Screenshot](https://github.com/tomcdev63/Taxi_NY/blob/master/New_York_Taxi.jpg?raw=true)
+![Screenshot](https://github.com/tomcdev63/Taxi_NY/blob/master/taxi.JPG?raw=true)
 
 ## Sources:
 
