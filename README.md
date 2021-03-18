@@ -1,6 +1,6 @@
 # TAXI_NY
 
-![Screenshot](https://github.com/tomcdev63/Taxi_NY/blob/master/taxi.JPG?raw=true)
+![Screenshot](https://github.com/tomcdev63/Taxi_NY/blob/master/src/taxi.JPG?raw=true)
 
 ## Contexte du projet:
 
