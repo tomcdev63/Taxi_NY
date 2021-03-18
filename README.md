@@ -23,15 +23,15 @@ Concernant le type de rendu, elle vous laisse libre de lui fournir sous la forme
 * https://moonbooks.org/Articles/Arrondir-un-nombre-decimal-en-python/
 * https://scikit-learn.org/stable/modules/generated/sklearn.metrics.plot_roc_curve.html
 
-## Installation
+## Installation:
 
-### 1. Clonez le repos
+#### Clonez le repos
 
 ```
 git clone https://https://github.com/tomcdev63/Taxi_NY
 ```
 
-### 2. Installez l'environnement
+#### Installez l'environnement
     
 ```
 conda create --name <env> --file <this file>
